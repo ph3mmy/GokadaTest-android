@@ -10,4 +10,6 @@
     <string name="welcome">Welcome</string>
     <string name="btn_logout">LOGOUT</string>
     <string name="name">Fullname</string>
+    <string name="sign_up_text">Not yet Registered? Sign Up here</string>
+    <string name="sign_in_text">Already Registered? LOGIN here</string>
 </resources>
